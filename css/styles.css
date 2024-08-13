@@ -27,8 +27,9 @@ img {
     padding: 0 16px;
 }
 
-.text-content h2 {
-    color: hsl(218, 44%, 22%)
+.text-content h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: x-large;
 }
 
 .text-content p {
@@ -36,12 +37,9 @@ img {
     text-align: center;
 }
 
-footer {
-    margin-top: 20px;
-}
-
 .attribution {
     font-size: 11px;
     color: hsl(228 45% 44%);
     text-align: center;
+    margin-top: 20px;
 }

@@ -9,9 +9,9 @@ body {
 
 .main {
     width: 320px;
-    height: 499px;
+    height: 455px;
     margin: 0 auto;
-    padding: 16px 16px 40px 16px;
+    padding: 20px 8px 16px 8px;
     background: hsl(0, 0%, 100%);
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -25,11 +25,12 @@ img {
 
 .text-content {
     padding: 0 16px;
+    margin-top: 25px;
 }
 
 .text-content h1 {
     color: hsl(218, 44%, 22%);
-    font-size: x-large;
+    font-size: 1.4rem;
 }
 
 .text-content p {

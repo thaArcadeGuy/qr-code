@@ -35,6 +35,7 @@ img {
 .text-content p {
     color: hsl(216, 15%, 48%);
     text-align: center;
+    font-size: 16px;
 }
 
 .attribution {
